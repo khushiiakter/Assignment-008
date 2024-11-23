@@ -1,0 +1,167 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Dell Inspiron 15",
+    "product_image": "https://i.ibb.co.com/NZB0qMr/Notebook-Dell-Inspiron-3583-15-Intel-Celeron-4-GB-128-GB-SSD.jpg",
+    "category": "computers",
+    "price": 650,
+    "description": "15-inch laptop with Intel i5 processor and 8GB RAM.",
+    "specification": ["Intel i5", "8GB RAM", "256GB SSD", "15-inch display"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": 2,
+    "product_title": "HP Pavilion x360",
+    "product_image": "https://i.ibb.co.com/rGgHdRN/3-PCS-Matte-Clear-Laptop-Screen-Protector-Film-skin-For-HP-Pavilion-14-bf036t-14g-br002tu-Pavilion.jpg",
+    "category": "computers",
+    "price": 700,
+    "description": "Convertible laptop with touch screen and Intel i7 processor.",
+    "specification": ["Intel i7", "16GB RAM", "512GB SSD", "Touchscreen"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 3,
+    "product_title": "MacBook Air M1",
+    "product_image": "https://i.ibb.co.com/D9gSyNC/Apple-Mac-Book-Air-13in-256-GB-SSD-M1-8-GB-Laptop-Space-Gray-MGN63-LL-A-29-194252048955-e-Bay.jpg",
+    "category": "computers",
+    "price": 999,
+    "description": "Apple's M1 chip powered MacBook Air with 256GB storage.",
+    "specification": ["Apple M1", "8GB RAM", "256GB SSD", "Retina Display"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 4,
+    "product_title": "Lenovo ThinkPad E15",
+    "product_image": "https://i.ibb.co.com/1GPx60q/Lenovo-Think-Pad-X260-Laptop-12-5-Intel-Graphics-i5-6300-U-8-GB-256-GB-Windows-11-Pro-Refurbished.jpg",
+    "category": "computers",
+    "price": 800,
+    "description": "Business laptop with excellent build quality and reliability.",
+    "specification": ["Intel i5", "8GB RAM", "512GB SSD", "15-inch FHD Display"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 5,
+    "product_title": "Acer Aspire 5",
+    "product_image": "https://i.ibb.co.com/qM00rXV/Acer-Port-til-Acer-Aspire-5-A515-i5-8-GB-512-GB-SSD-15-6-W11-Reacondicionado-grado-A.jpg",
+    "category": "computers",
+    "price": 550,
+    "description": "Budget-friendly laptop with reliable performance.",
+    "specification": ["Intel i3", "4GB RAM", "128GB SSD", "15.6-inch display"],
+    "availability": false,
+    "rating": 4.0
+  },
+  {
+    "product_id": 6,
+    "product_title": "Microsoft Surface Laptop Go",
+    "product_image": "https://i.ibb.co.com/59M9TzM/Microsoft-Surface-Laptop-Go-3-12-45-Touchscreen-Laptop.jpg",
+    "category": "computers",
+    "price": 750,
+    "description": "Lightweight laptop with sleek design and long battery life.",
+    "specification": ["Intel i5", "8GB RAM", "128GB SSD", "Touchscreen"],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "product_id": 7,
+    "product_title": "iPhone 13",
+    "product_image": "https://i.ibb.co.com/G0ZNYRS/Apple-has-revealed-the-latest-i-Phone-Here-s-what-s-new.jpg",
+    "category": "phones",
+    "price": 999,
+    "description": "Apple's latest smartphone with A15 Bionic chip and improved camera.",
+    "specification": ["A15 Bionic", "5G", "Dual 12MP cameras", "128GB Storage"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 8,
+    "product_title": "Samsung Galaxy S21",
+    "product_image": "https://i.ibb.co.com/ftFG9QS/Acquista-Galaxy-S21-S21-S21-Ultra-5-G-Prezzo-e-Offerte-Samsung-Italia.jpg",
+    "category": "phones",
+    "price": 850,
+    "description": "Flagship Android smartphone with top-notch performance.",
+    "specification": ["Exynos 2100", "8GB RAM", "128GB Storage", "120Hz Display"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 9,
+    "product_title": "Google Pixel 6",
+    "product_image": "https://i.ibb.co.com/9b1jf8s/Google-Pixel-9.jpg",
+    "category": "phones",
+    "price": 799,
+    "description": "Google's latest phone with Tensor chip and enhanced AI capabilities.",
+    "specification": ["Google Tensor", "8GB RAM", "128GB Storage", "50MP camera"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 10,
+    "product_title": "Apple Watch Series 7",
+    "product_image": "https://i.ibb.co.com/tMW1GDs/Apple-Watch-Series-10-GPS-Cellular-42mm-Rose-Gold-Aluminum-Case-with-Light-Blush-Sport-Band-S-M.jpg",
+    "category": "smart watches",
+    "price": 400,
+    "description": "Apple's latest smartwatch with larger display and faster charging.",
+    "specification": ["Blood Oxygen Monitoring", "ECG", "Always-On Display"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 11,
+    "product_title": "Samsung Galaxy Watch 4",
+    "product_image": "https://i.ibb.co.com/tbkdRbW/Samsung-Galaxy-Watch-6-Black.jpg",
+    "category": "smart watches",
+    "price": 350,
+    "description": "Advanced fitness tracking and Google Wear OS.",
+    "specification": ["Wear OS", "ECG", "Body Composition Analysis"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 12,
+    "product_title": "Fitbit Versa 3",
+    "product_image": "https://i.ibb.co.com/q1rgXR2/Watch-Strap-For-Fitbit-Versa-3-4-Wrist-Band-Silicone-Watchband-For-Fitbit-Sense-2-Smart-Bracelet.jpg",
+    "category": "smart watches",
+    "price": 230,
+    "description": "Smartwatch with GPS, heart rate monitoring, and Alexa built-in.",
+    "specification": ["GPS", "Heart Rate", "Voice Assistant"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 13,
+    "product_title": "Anker PowerPort III",
+    "product_image": "https://i.ibb.co.com/hc6vyyJ/Anker-Powerport-Iii-Mini-Pd-30-Watt-Black.jpg",
+    "category": "chargers",
+    "price": 55,
+    "description": "Fast USB-C charger with PowerIQ 3.0 technology.",
+    "specification": ["20W output", "USB-C", "Compact design"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 14,
+    "product_title": "Belkin BoostCharge 30W",
+    "product_image": "https://i.ibb.co.com/NS0XFcQ/Belkin-Boost-Charge-30-W-USB-C-Wall-Charger-USB-C-Cable-with-Lightning-Connector-WCA005-AU1-MWH-B5-M.jpg",
+    "category": "chargers",
+    "price": 60,
+    "description": "High-speed charger with dual port design.",
+    "specification": ["30W output", "USB-A & USB-C ports"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 15,
+    "product_title": "Samsung Fast Charge 25W",
+    "product_image": "https://i.ibb.co.com/5n5KRt3/Samsung-Galaxy-S10-Original-25-W-USB-C-Super-Fast-Charging-Wall-Charger-Set-Black-Walmart-com.jpg",
+    "category": "chargers",
+    "price": 50,
+    "description": "Fast charging adapter compatible with Samsung Galaxy devices.",
+    "specification": ["25W output", "USB-C"],
+    "availability": true,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+      "category_id": 1,
+      "category": "computers"
+    },
+    {
+      "category_id": 2,
+      "category": "phones"
+    },
+    {
+      "category_id": 3,
+      "category": "smart watches"
+    },
+    {
+      "category_id": 4,
+      "category": "chargers"
+    },
+    {
+      "category_id": 5,
+      "category": "power banks"
+    }
+  ]
+  
